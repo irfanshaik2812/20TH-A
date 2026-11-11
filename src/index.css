@@ -1,0 +1,176 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-blush-50: #FFFDF9;
+    --color-blush-100: #FCEEF2;
+    --color-blush-200: #F8DCE5;
+    --color-blush-300: #E8B4C8;
+    --color-rose-400: #D88CA5;
+    --color-rose-500: #B75F7D;
+    --color-rose-600: #9E4B66;
+    --color-dusty: #C99A9A;
+    --color-mauve: #70515A;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+  }
+}
+
+.font-cursive {
+  font-family: 'Great Vibes', cursive;
+}
+
+.font-serif {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-sans {
+  font-family: 'Poppins', sans-serif;
+}
+
+.font-handwriting {
+  font-family: 'Caveat', cursive;
+}
+
+/* Custom romantic glow & subtle animations */
+@keyframes floatSlow {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-15px) rotate(4deg);
+  }
+}
+
+@keyframes swayPetal {
+  0% {
+    transform: translateY(-20px) translateX(0px) rotate(0deg);
+    opacity: 0;
+  }
+  15% {
+    opacity: 0.85;
+  }
+  85% {
+    opacity: 0.85;
+  }
+  100% {
+    transform: translateY(105vh) translateX(60px) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+@keyframes fallingPetalSway {
+  0% {
+    transform: translate3d(0, -30px, 0) rotate(0deg);
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.9;
+  }
+  25% {
+    transform: translate3d(35px, 25vh, 0) rotate(90deg);
+  }
+  50% {
+    transform: translate3d(-30px, 52vh, 0) rotate(180deg);
+  }
+  75% {
+    transform: translate3d(40px, 78vh, 0) rotate(270deg);
+    opacity: 0.85;
+  }
+  95% {
+    opacity: 0.7;
+  }
+  100% {
+    transform: translate3d(-20px, 108vh, 0) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+@keyframes petalFlutter {
+  0% {
+    transform: rotateX(0deg) rotateY(0deg) scale(1);
+  }
+  50% {
+    transform: rotateX(65deg) rotateY(45deg) scale(0.85);
+  }
+  100% {
+    transform: rotateX(-50deg) rotateY(-40deg) scale(1);
+  }
+}
+
+@keyframes candleFlicker {
+  0%, 100% {
+    transform: scale(1) translateY(0);
+    filter: drop-shadow(0 0 8px rgba(255, 180, 50, 0.9));
+  }
+  25% {
+    transform: scale(1.08, 0.94) translateY(-1px) rotate(-1.5deg);
+    filter: drop-shadow(0 0 12px rgba(255, 140, 20, 0.95));
+  }
+  50% {
+    transform: scale(0.96, 1.05) translateY(1px) rotate(1deg);
+    filter: drop-shadow(0 0 7px rgba(255, 200, 70, 0.85));
+  }
+  75% {
+    transform: scale(1.04, 0.97) translateY(-0.5px) rotate(-0.5deg);
+    filter: drop-shadow(0 0 10px rgba(255, 160, 40, 0.9));
+  }
+}
+
+@keyframes smokeRise {
+  0% {
+    opacity: 0.8;
+    transform: translateY(0) scale(1) rotate(0deg);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-50px) scale(2.2) rotate(20deg);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(216, 140, 165, 0.35);
+  }
+  50% {
+    box-shadow: 0 0 35px rgba(216, 140, 165, 0.7);
+  }
+}
+
+.animate-float {
+  animation: floatSlow 6s ease-in-out infinite;
+}
+
+.animate-candle {
+  animation: candleFlicker 1.8s infinite ease-in-out;
+}
+
+.animate-smoke {
+  animation: smokeRise 1.6s forwards ease-out;
+}
+
+.animate-glow {
+  animation: pulseGlow 3s infinite ease-in-out;
+}
+
+/* Custom scrollbar for aesthetic harmony */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFFDF9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #F8DCE5;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D88CA5;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Forever Together - Parents' Wedding Anniversary",
+  "description": "A romantic digital wedding anniversary celebration for our parents, featuring a love story timeline, Polaroid scrapbook gallery, handwritten letters, reasons we love you, interactive cake cutting, background music, surprise video reveal, and digital guestbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

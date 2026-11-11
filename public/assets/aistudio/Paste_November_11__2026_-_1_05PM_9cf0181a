@@ -1,0 +1,978 @@
+BUILD A COMPLETE FULL-STACK ANNIVERSARY WEBSITE
+PROJECT: FOREVER TOGETHER ❤️
+You are an expert full-stack software engineer, creative UI/UX designer, React developer, animation specialist and Supabase backend architect.
+Build a complete, production-ready, premium wedding anniversary website for my parents.
+This website is a special digital gift created by their children.
+It must be emotional, romantic, interactive, visually stunning and genuinely functional.
+Do not build a basic landing page, static HTML template or frontend-only prototype.
+Build a complete working application with a public anniversary experience and a separate secure administrator dashboard.
+==================================================
+PROJECT INFORMATION
+==================================================
+Website name: Forever Together
+Occasion: Parents' Wedding Anniversary
+Anniversary date: 12 November 2026
+Timezone: Asia/Kolkata
+Design theme:
+Cute romantic aesthetic.
+Blush pink.
+Pastel pink.
+Ivory white.
+Rose gold.
+Soft floral illustrations.
+Elegant roses.
+Floating hearts.
+Subtle sparkles.
+Beautiful cursive typography.
+Color palette:
+#F8DCE5
+#FCEEF2
+#FFFDF9
+#C99A9A
+#D88CA5
+#B75F7D
+#70515A
+Typography:
+Great Vibes.
+Cormorant Garamond.
+Poppins.
+Make the experience feel like a beautiful romantic storybook.
+==================================================
+2. TECHNOLOGY REQUIREMENTS
+Frontend:
+React.
+TypeScript.
+Vite.
+Tailwind CSS.
+React Router.
+Framer Motion.
+GSAP.
+Lucide React.
+React Confetti.
+Backend:
+Supabase PostgreSQL.
+Supabase Authentication.
+Supabase Storage.
+Supabase Realtime.
+Deployment:
+Google AI Studio development environment.
+GitHub integration.
+Vercel deployment compatibility.
+Use reusable React components and a clean modular architecture.
+Use TypeScript interfaces for database records, form inputs and component props.
+==================================================
+3. THE MAIN WELCOME SCREEN
+The first screen must be an extraordinary romantic welcome experience.
+Display:
+Full-screen blush pink and ivory background.
+Beautiful floral decorations.
+Large photograph of my parents in the center.
+Elegant rounded or floral photograph frame.
+Floating rose petals.
+Floating hearts.
+Soft glowing effects.
+Beautiful typography.
+Heading:
+"To The Two People Who Mean The World To Us"
+Subtitle:
+"Happy Wedding Anniversary ❤️"
+Below the photograph, display a large button:
+"ENTER OUR LOVE STORY ❤️"
+Button interaction:
+Soft glowing hover effect.
+Beautiful click animation.
+Smooth transition into the main experience.
+Start background music only after user interaction, if enabled.
+Add a subtle line:
+"A little surprise awaits you..."
+The main photograph and text must be editable from the admin dashboard.
+==================================================
+4. MAIN WEBSITE EXPERIENCE
+Build the public website as a continuous cinematic scrolling experience.
+Sections:
+Welcome.
+Love story timeline.
+Photo gallery.
+Letters from children.
+Reasons why we love you.
+Interactive anniversary cake.
+Special surprise.
+Digital guestbook.
+Footer.
+Navigation:
+Smooth scrolling.
+Responsive navigation.
+Active section indicator.
+Floating music player.
+Back-to-top control.
+Do not make navigation unnecessarily complicated.
+==================================================
+5. LOVE STORY TIMELINE
+Create a beautiful vertical relationship timeline.
+Use alternating milestone cards on desktop and a single vertical timeline on mobile.
+Each milestone must support:
+Date.
+Title.
+Description.
+Photograph.
+Optional video.
+Display order.
+Publication status.
+Animations:
+Timeline line draws while scrolling.
+Cards fade and slide into view.
+Photographs appear smoothly.
+Small heart decorations.
+All timeline records must load from Supabase.
+Administrator must have full create, read, update and delete functionality.
+Do not permanently hardcode sample timeline entries.
+==================================================
+6. PHOTO GALLERY
+Create a premium romantic scrapbook-style gallery.
+Design:
+Polaroid photo cards.
+Slightly rotated photographs.
+White frames.
+Handwritten captions.
+Soft shadows.
+Pink decorative elements.
+Smooth hover effects.
+Features:
+Multiple image uploads.
+Albums.
+Wedding photos.
+Family memories.
+Travel memories.
+Special occasions.
+Captions and dates.
+Album filtering.
+Fullscreen lightbox.
+Previous and next navigation.
+Keyboard support.
+Mobile swipe gestures.
+Slideshow.
+Use actual Supabase Storage photographs.
+Add proper image optimization and lazy loading.
+==================================================
+7. LETTERS FROM OUR CHILDREN
+Create a beautiful interactive envelope section.
+Each letter must have:
+Author.
+Title.
+Message.
+Optional audio recording.
+Publication status.
+On clicking an envelope:
+Animate the envelope opening.
+Reveal the letter.
+Display a handwritten-style message.
+Add a smooth entrance animation.
+Allow administrator to create, edit, delete and publish letters.
+==================================================
+8. REASONS WHY WE LOVE YOU
+Create a section titled:
+"Reasons Why We Love You ❤️"
+Display six beautiful animated cards:
+Your Sacrifices.
+Your Unconditional Love.
+Your Guidance.
+Your Support.
+Your Beautiful Relationship.
+Everything You Have Done For Us.
+Use the following sample messages:
+Your Sacrifices:
+"For everything you gave up to make our lives better."
+Your Unconditional Love:
+"For loving us through every moment without expecting anything in return."
+Your Guidance:
+"For showing us the right path and teaching us how to become better people."
+Your Support:
+"For always standing beside us, even during difficult times."
+Your Beautiful Relationship:
+"For showing us what true love, patience and togetherness look like."
+Everything You Have Done For Us:
+"For making our world beautiful through your endless love and care."
+Make all cards editable through the administrator dashboard.
+==================================================
+9. BACKGROUND MUSIC
+Create a beautiful floating music player.
+Features:
+Play.
+Pause.
+Mute.
+Volume control.
+Track title.
+Animated music icon.
+MP3, WAV and OGG support.
+Administrator can replace music.
+Music preference persists during the session.
+Respect browser autoplay restrictions.
+Start music only after the visitor interacts with the welcome screen.
+==================================================
+10. INTERACTIVE ANNIVERSARY CAKE
+Create a beautiful multi-tier pink and white anniversary cake.
+Include:
+Decorative roses.
+Animated candles.
+Glowing flames.
+Romantic background.
+Display:
+"Make a beautiful wish together..."
+Add a button:
+"BLOW OUT THE CANDLES ❤️"
+On clicking:
+Extinguish candle flames.
+Animate smoke.
+Trigger confetti.
+Play a short celebration sound if enabled.
+Reveal an animated message.
+Message:
+"Happy Anniversary, Mom & Dad!"
+"May your love continue to grow stronger with every passing year."
+This must be a working interaction on mobile and desktop.
+==================================================
+11. SPECIAL SURPRISE REVEAL
+Create a cinematic surprise section.
+Display:
+Animated gift box.
+Pink and gold ribbons.
+Floating petals.
+Glowing hearts.
+Heading:
+"One Last Surprise Awaits You..."
+Button:
+"OPEN YOUR SURPRISE ❤️"
+On click:
+Animate gift box opening.
+Release confetti.
+Reveal a family video or slideshow.
+Display a heartfelt message.
+Message:
+"Dear Mom and Dad,
+Everything we are today is because of everything you have done for us.
+Your sacrifices, guidance, patience and unconditional love have made our lives beautiful.
+You are our greatest blessing and our forever heroes.
+Thank you for being our parents.
+We love you endlessly.
+HAPPY WEDDING ANNIVERSARY! ❤️"
+The video, message and photographs must be replaceable through the admin dashboard.
+==================================================
+12. DIGITAL GUESTBOOK
+Create a guestbook where relatives and visitors can submit anniversary wishes.
+Form fields:
+Visitor name.
+Relationship with parents.
+Anniversary message.
+Optional photograph.
+Requirements:
+Validate input.
+Limit message length.
+Show success and error states.
+Prevent spam.
+Save messages in Supabase.
+New messages must have PENDING status.
+Only administrator-approved messages appear publicly.
+==================================================
+13. SECURE ADMIN DASHBOARD
+Create a completely separate admin application interface.
+Routes:
+/admin/login
+/admin
+Use Supabase Authentication.
+Implement trusted administrator-role authorization.
+Admin modules:
+Dashboard Overview.
+Homepage Manager.
+Photo Gallery Manager.
+Timeline Manager.
+Letters Manager.
+Reasons Manager.
+Music Manager.
+Video Manager.
+Surprise Manager.
+Guestbook Manager.
+Website Settings.
+Dashboard analytics:
+Number of photographs.
+Number of milestones.
+Number of letters.
+Pending wishes.
+Published content.
+All modules must have actual working CRUD functionality.
+Add:
+Loading indicators.
+Upload progress.
+Form validation.
+Success notifications.
+Error notifications.
+Delete confirmations.
+Search.
+Filters.
+Responsive admin sidebar.
+==================================================
+14. REAL MEDIA UPLOAD FUNCTIONALITY
+Implement a real media management system using Supabase Storage.
+Storage buckets:
+anniversary-photos
+anniversary-audio
+anniversary-videos
+Photo formats:
+JPG, JPEG, PNG, WebP.
+Audio formats:
+MP3, WAV, OGG, M4A.
+Video formats:
+MP4, WebM.
+Requirements:
+Drag-and-drop upload.
+Multiple file uploads.
+Image previews.
+Video previews.
+Audio previews.
+Upload progress.
+File size validation.
+File type validation.
+Unique file names.
+Persistent cloud storage.
+Replace files.
+Delete files.
+Database metadata updates.
+Use resumable uploads for large files.
+Use a video hosting integration or private signed URLs for large videos where appropriate.
+Never store binary files in PostgreSQL.
+Only authorized administrators may upload, replace or delete files.
+==================================================
+15. SUPABASE DATABASE
+Create these PostgreSQL tables:
+site_settings
+timeline_events
+gallery_photos
+letters
+guestbook
+site_media
+love_reasons
+Use appropriate:
+UUID identifiers.
+Timestamps.
+Indexes.
+Constraints.
+Relationships.
+Enable Row Level Security on all tables.
+Public visitors:
+Can read published website content.
+Can read approved guestbook messages.
+Can submit pending guestbook messages.
+Cannot edit website content.
+Administrators:
+Can manage all website content.
+Can approve and reject guestbook messages.
+Can upload and delete media.
+Use trusted Supabase Auth app_metadata for admin roles.
+Never authorize administrators using user-editable metadata.
+Never expose the service-role key in frontend code.
+==================================================
+16. APPLICATION ARCHITECTURE
+Create a clean modular structure:
+src/
+components/
+WelcomeScreen.tsx
+Navbar.tsx
+MusicPlayer.tsx
+Countdown.tsx
+RosePetals.tsx
+Timeline.tsx
+Gallery.tsx
+PhotoLightbox.tsx
+LetterEnvelope.tsx
+ReasonsCards.tsx
+AnniversaryCake.tsx
+SurpriseReveal.tsx
+Guestbook.tsx
+pages/
+Home.tsx
+AdminLogin.tsx
+admin/
+AdminLayout.tsx
+Dashboard.tsx
+HomepageManager.tsx
+GalleryManager.tsx
+TimelineManager.tsx
+LettersManager.tsx
+ReasonsManager.tsx
+MusicManager.tsx
+VideoManager.tsx
+GuestbookManager.tsx
+SurpriseManager.tsx
+Settings.tsx
+lib/
+supabase.ts
+hooks/
+useSiteSettings.ts
+types/
+database.ts
+App.tsx
+main.tsx
+index.css
+supabase/
+migrations/
+==================================================
+17. USER EXPERIENCE AND RESPONSIVENESS
+The website must work perfectly on:
+Mobile phones.
+Tablets.
+Laptops.
+Desktop computers.
+Requirements:
+Mobile-first layout.
+Smooth animations.
+Touch-friendly interactions.
+Accessible buttons.
+Keyboard navigation.
+Reduced-motion support.
+Image optimization.
+Lazy loading.
+Good loading performance.
+The first screen must look beautiful on mobile because parents may open the website using a phone.
+==================================================
+18. PRODUCTION QUALITY
+Every feature must be functional.
+Do not use fake buttons.
+Do not use temporary frontend arrays as the production database.
+Do not pretend uploads succeeded when they failed.
+Implement proper loading, empty and error states.
+Ensure:
+Admin authorization.
+Supabase RLS.
+Secure file access.
+Input validation.
+Guestbook spam protection.
+Broken-link handling.
+Database error handling.
+Responsive layout.
+Production build.
+Create a README with installation and deployment instructions.
+==================================================
+19. IMPLEMENTATION PLAN
+Work incrementally.
+PHASE 1:
+Create project architecture, dependencies and complete design system.
+PHASE 2:
+Configure Supabase, migrations, database, RLS and storage policies.
+PHASE 3:
+Build the welcome screen and public website.
+PHASE 4:
+Build timeline, photo gallery, letters and reasons sections.
+PHASE 5:
+Build music player, interactive cake and surprise reveal.
+PHASE 6:
+Build secure admin authentication and dashboard.
+PHASE 7:
+Implement real uploads and CRUD functionality.
+PHASE 8:
+Implement guestbook and moderation.
+PHASE 9:
+Perform security testing, mobile testing and production build.
+After each phase:
+Run the application.
+Test functionality.
+Fix errors.
+Verify all routes.
+Preserve existing working features.
+Do not stop after creating the homepage.
+If Supabase credentials are unavailable, create the integration code and explain the configuration needed. Never simulate successful cloud uploads.
+==================================================
+20. FINAL INSTRUCTION
+Build a genuinely functional website, not just a design preview.
+The final experience should feel like a romantic movie made for my parents.
+The opening photograph, the love story, the Polaroid gallery, the handwritten letters, the music, the cake celebration and the surprise reveal must work together as one beautiful experience.
+Start by inspecting the project and implementing Phase 1.
+Do not skip steps. Do not leave fake functionality. Test before claiming completion.
+PROJECT NAME: FOREVER TOGETHER ❤️
+BUILD A COMPLETE FULL-STACK ANNIVERSARY WEBSITE
+PROJECT: FOREVER TOGETHER ❤️
+You are an expert full-stack software engineer, creative UI/UX designer, React developer, animation specialist and Supabase backend architect.
+Build a complete, production-ready, premium wedding anniversary website for my parents.
+This website is a special digital gift created by their children.
+It must be emotional, romantic, interactive, visually stunning and genuinely functional.
+Do not build a basic landing page, static HTML template or frontend-only prototype.
+Build a complete working application with a public anniversary experience and a separate secure administrator dashboard.
+==================================================
+PROJECT INFORMATION
+==================================================
+Website name: Forever Together
+Occasion: Parents' Wedding Anniversary
+Anniversary date: 12 November 2026
+Timezone: Asia/Kolkata
+Design theme:
+Cute romantic aesthetic.
+Blush pink.
+Pastel pink.
+Ivory white.
+Rose gold.
+Soft floral illustrations.
+Elegant roses.
+Floating hearts.
+Subtle sparkles.
+Beautiful cursive typography.
+Color palette:
+#F8DCE5
+#FCEEF2
+#FFFDF9
+#C99A9A
+#D88CA5
+#B75F7D
+#70515A
+Typography:
+Great Vibes.
+Cormorant Garamond.
+Poppins.
+Make the experience feel like a beautiful romantic storybook.
+==================================================
+2. TECHNOLOGY REQUIREMENTS
+Frontend:
+React.
+TypeScript.
+Vite.
+Tailwind CSS.
+React Router.
+Framer Motion.
+GSAP.
+Lucide React.
+React Confetti.
+Backend:
+Supabase PostgreSQL.
+Supabase Authentication.
+Supabase Storage.
+Supabase Realtime.
+Deployment:
+Google AI Studio development environment.
+GitHub integration.
+Vercel deployment compatibility.
+Use reusable React components and a clean modular architecture.
+Use TypeScript interfaces for database records, form inputs and component props.
+==================================================
+3. THE MAIN WELCOME SCREEN
+The first screen must be an extraordinary romantic welcome experience.
+Display:
+Full-screen blush pink and ivory background.
+Beautiful floral decorations.
+Large photograph of my parents in the center.
+Elegant rounded or floral photograph frame.
+Floating rose petals.
+Floating hearts.
+Soft glowing effects.
+Beautiful typography.
+Heading:
+"To The Two People Who Mean The World To Us"
+Subtitle:
+"Happy Wedding Anniversary ❤️"
+Below the photograph, display a large button:
+"ENTER OUR LOVE STORY ❤️"
+Button interaction:
+Soft glowing hover effect.
+Beautiful click animation.
+Smooth transition into the main experience.
+Start background music only after user interaction, if enabled.
+Add a subtle line:
+"A little surprise awaits you..."
+The main photograph and text must be editable from the admin dashboard.
+==================================================
+4. MAIN WEBSITE EXPERIENCE
+Build the public website as a continuous cinematic scrolling experience.
+Sections:
+Welcome.
+Love story timeline.
+Photo gallery.
+Letters from children.
+Reasons why we love you.
+Interactive anniversary cake.
+Special surprise.
+Digital guestbook.
+Footer.
+Navigation:
+Smooth scrolling.
+Responsive navigation.
+Active section indicator.
+Floating music player.
+Back-to-top control.
+Do not make navigation unnecessarily complicated.
+==================================================
+5. LOVE STORY TIMELINE
+Create a beautiful vertical relationship timeline.
+Use alternating milestone cards on desktop and a single vertical timeline on mobile.
+Each milestone must support:
+Date.
+Title.
+Description.
+Photograph.
+Optional video.
+Display order.
+Publication status.
+Animations:
+Timeline line draws while scrolling.
+Cards fade and slide into view.
+Photographs appear smoothly.
+Small heart decorations.
+All timeline records must load from Supabase.
+Administrator must have full create, read, update and delete functionality.
+Do not permanently hardcode sample timeline entries.
+==================================================
+6. PHOTO GALLERY
+Create a premium romantic scrapbook-style gallery.
+Design:
+Polaroid photo cards.
+Slightly rotated photographs.
+White frames.
+Handwritten captions.
+Soft shadows.
+Pink decorative elements.
+Smooth hover effects.
+Features:
+Multiple image uploads.
+Albums.
+Wedding photos.
+Family memories.
+Travel memories.
+Special occasions.
+Captions and dates.
+Album filtering.
+Fullscreen lightbox.
+Previous and next navigation.
+Keyboard support.
+Mobile swipe gestures.
+Slideshow.
+Use actual Supabase Storage photographs.
+Add proper image optimization and lazy loading.
+==================================================
+7. LETTERS FROM OUR CHILDREN
+Create a beautiful interactive envelope section.
+Each letter must have:
+Author.
+Title.
+Message.
+Optional audio recording.
+Publication status.
+On clicking an envelope:
+Animate the envelope opening.
+Reveal the letter.
+Display a handwritten-style message.
+Add a smooth entrance animation.
+Allow administrator to create, edit, delete and publish letters.
+==================================================
+8. REASONS WHY WE LOVE YOU
+Create a section titled:
+"Reasons Why We Love You ❤️"
+Display six beautiful animated cards:
+Your Sacrifices.
+Your Unconditional Love.
+Your Guidance.
+Your Support.
+Your Beautiful Relationship.
+Everything You Have Done For Us.
+Use the following sample messages:
+Your Sacrifices:
+"For everything you gave up to make our lives better."
+Your Unconditional Love:
+"For loving us through every moment without expecting anything in return."
+Your Guidance:
+"For showing us the right path and teaching us how to become better people."
+Your Support:
+"For always standing beside us, even during difficult times."
+Your Beautiful Relationship:
+"For showing us what true love, patience and togetherness look like."
+Everything You Have Done For Us:
+"For making our world beautiful through your endless love and care."
+Make all cards editable through the administrator dashboard.
+==================================================
+9. BACKGROUND MUSIC
+Create a beautiful floating music player.
+Features:
+Play.
+Pause.
+Mute.
+Volume control.
+Track title.
+Animated music icon.
+MP3, WAV and OGG support.
+Administrator can replace music.
+Music preference persists during the session.
+Respect browser autoplay restrictions.
+Start music only after the visitor interacts with the welcome screen.
+==================================================
+10. INTERACTIVE ANNIVERSARY CAKE
+Create a beautiful multi-tier pink and white anniversary cake.
+Include:
+Decorative roses.
+Animated candles.
+Glowing flames.
+Romantic background.
+Display:
+"Make a beautiful wish together..."
+Add a button:
+"BLOW OUT THE CANDLES ❤️"
+On clicking:
+Extinguish candle flames.
+Animate smoke.
+Trigger confetti.
+Play a short celebration sound if enabled.
+Reveal an animated message.
+Message:
+"Happy Anniversary, Mom & Dad!"
+"May your love continue to grow stronger with every passing year."
+This must be a working interaction on mobile and desktop.
+==================================================
+11. SPECIAL SURPRISE REVEAL
+Create a cinematic surprise section.
+Display:
+Animated gift box.
+Pink and gold ribbons.
+Floating petals.
+Glowing hearts.
+Heading:
+"One Last Surprise Awaits You..."
+Button:
+"OPEN YOUR SURPRISE ❤️"
+On click:
+Animate gift box opening.
+Release confetti.
+Reveal a family video or slideshow.
+Display a heartfelt message.
+Message:
+"Dear Mom and Dad,
+Everything we are today is because of everything you have done for us.
+Your sacrifices, guidance, patience and unconditional love have made our lives beautiful.
+You are our greatest blessing and our forever heroes.
+Thank you for being our parents.
+We love you endlessly.
+HAPPY WEDDING ANNIVERSARY! ❤️"
+The video, message and photographs must be replaceable through the admin dashboard.
+==================================================
+12. DIGITAL GUESTBOOK
+Create a guestbook where relatives and visitors can submit anniversary wishes.
+Form fields:
+Visitor name.
+Relationship with parents.
+Anniversary message.
+Optional photograph.
+Requirements:
+Validate input.
+Limit message length.
+Show success and error states.
+Prevent spam.
+Save messages in Supabase.
+New messages must have PENDING status.
+Only administrator-approved messages appear publicly.
+==================================================
+13. SECURE ADMIN DASHBOARD
+Create a completely separate admin application interface.
+Routes:
+/admin/login
+/admin
+Use Supabase Authentication.
+Implement trusted administrator-role authorization.
+Admin modules:
+Dashboard Overview.
+Homepage Manager.
+Photo Gallery Manager.
+Timeline Manager.
+Letters Manager.
+Reasons Manager.
+Music Manager.
+Video Manager.
+Surprise Manager.
+Guestbook Manager.
+Website Settings.
+Dashboard analytics:
+Number of photographs.
+Number of milestones.
+Number of letters.
+Pending wishes.
+Published content.
+All modules must have actual working CRUD functionality.
+Add:
+Loading indicators.
+Upload progress.
+Form validation.
+Success notifications.
+Error notifications.
+Delete confirmations.
+Search.
+Filters.
+Responsive admin sidebar.
+==================================================
+14. REAL MEDIA UPLOAD FUNCTIONALITY
+Implement a real media management system using Supabase Storage.
+Storage buckets:
+anniversary-photos
+anniversary-audio
+anniversary-videos
+Photo formats:
+JPG, JPEG, PNG, WebP.
+Audio formats:
+MP3, WAV, OGG, M4A.
+Video formats:
+MP4, WebM.
+Requirements:
+Drag-and-drop upload.
+Multiple file uploads.
+Image previews.
+Video previews.
+Audio previews.
+Upload progress.
+File size validation.
+File type validation.
+Unique file names.
+Persistent cloud storage.
+Replace files.
+Delete files.
+Database metadata updates.
+Use resumable uploads for large files.
+Use a video hosting integration or private signed URLs for large videos where appropriate.
+Never store binary files in PostgreSQL.
+Only authorized administrators may upload, replace or delete files.
+==================================================
+15. SUPABASE DATABASE
+Create these PostgreSQL tables:
+site_settings
+timeline_events
+gallery_photos
+letters
+guestbook
+site_media
+love_reasons
+Use appropriate:
+UUID identifiers.
+Timestamps.
+Indexes.
+Constraints.
+Relationships.
+Enable Row Level Security on all tables.
+Public visitors:
+Can read published website content.
+Can read approved guestbook messages.
+Can submit pending guestbook messages.
+Cannot edit website content.
+Administrators:
+Can manage all website content.
+Can approve and reject guestbook messages.
+Can upload and delete media.
+Use trusted Supabase Auth app_metadata for admin roles.
+Never authorize administrators using user-editable metadata.
+Never expose the service-role key in frontend code.
+==================================================
+16. APPLICATION ARCHITECTURE
+Create a clean modular structure:
+src/
+components/
+WelcomeScreen.tsx
+Navbar.tsx
+MusicPlayer.tsx
+Countdown.tsx
+RosePetals.tsx
+Timeline.tsx
+Gallery.tsx
+PhotoLightbox.tsx
+LetterEnvelope.tsx
+ReasonsCards.tsx
+AnniversaryCake.tsx
+SurpriseReveal.tsx
+Guestbook.tsx
+pages/
+Home.tsx
+AdminLogin.tsx
+admin/
+AdminLayout.tsx
+Dashboard.tsx
+HomepageManager.tsx
+GalleryManager.tsx
+TimelineManager.tsx
+LettersManager.tsx
+ReasonsManager.tsx
+MusicManager.tsx
+VideoManager.tsx
+GuestbookManager.tsx
+SurpriseManager.tsx
+Settings.tsx
+lib/
+supabase.ts
+hooks/
+useSiteSettings.ts
+types/
+database.ts
+App.tsx
+main.tsx
+index.css
+supabase/
+migrations/
+==================================================
+17. USER EXPERIENCE AND RESPONSIVENESS
+The website must work perfectly on:
+Mobile phones.
+Tablets.
+Laptops.
+Desktop computers.
+Requirements:
+Mobile-first layout.
+Smooth animations.
+Touch-friendly interactions.
+Accessible buttons.
+Keyboard navigation.
+Reduced-motion support.
+Image optimization.
+Lazy loading.
+Good loading performance.
+The first screen must look beautiful on mobile because parents may open the website using a phone.
+==================================================
+18. PRODUCTION QUALITY
+Every feature must be functional.
+Do not use fake buttons.
+Do not use temporary frontend arrays as the production database.
+Do not pretend uploads succeeded when they failed.
+Implement proper loading, empty and error states.
+Ensure:
+Admin authorization.
+Supabase RLS.
+Secure file access.
+Input validation.
+Guestbook spam protection.
+Broken-link handling.
+Database error handling.
+Responsive layout.
+Production build.
+Create a README with installation and deployment instructions.
+==================================================
+19. IMPLEMENTATION PLAN
+Work incrementally.
+PHASE 1:
+Create project architecture, dependencies and complete design system.
+PHASE 2:
+Configure Supabase, migrations, database, RLS and storage policies.
+PHASE 3:
+Build the welcome screen and public website.
+PHASE 4:
+Build timeline, photo gallery, letters and reasons sections.
+PHASE 5:
+Build music player, interactive cake and surprise reveal.
+PHASE 6:
+Build secure admin authentication and dashboard.
+PHASE 7:
+Implement real uploads and CRUD functionality.
+PHASE 8:
+Implement guestbook and moderation.
+PHASE 9:
+Perform security testing, mobile testing and production build.
+After each phase:
+Run the application.
+Test functionality.
+Fix errors.
+Verify all routes.
+Preserve existing working features.
+Do not stop after creating the homepage.
+If Supabase credentials are unavailable, create the integration code and explain the configuration needed. Never simulate successful cloud uploads.
+==================================================
+20. FINAL INSTRUCTION
+Build a genuinely functional website, not just a design preview.
+The final experience should feel like a romantic movie made for my parents.
+The opening photograph, the love story, the Polaroid gallery, the handwritten letters, the music, the cake celebration and the surprise reveal must work together as one beautiful experience.
+Start by inspecting the project and implementing Phase 1.
+Do not skip steps. Do not leave fake functionality. Test before claiming completion.
+PROJECT NAME: FOREVER TOGETHER ❤️

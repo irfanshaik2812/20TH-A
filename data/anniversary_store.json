@@ -1,0 +1,1326 @@
+{
+  "site_settings": {
+    "site_title": "Forever Together",
+    "parents_names": "Mom & Dad",
+    "anniversary_date": "2026-11-12T00:00:00+05:30",
+    "welcome_heading": "To The Two People Who Mean The World To Us",
+    "welcome_subtitle": "Happy Wedding Anniversary ❤️",
+    "welcome_tagline": "A little surprise awaits you...",
+    "welcome_photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+    "background_music_url": "https://cdn.freesound.org/previews/612/612089_5674468-lq.mp3",
+    "background_music_title": "A Thousand Years (Instrumental Romance)",
+    "music_enabled": true,
+    "cake_message_title": "Happy Anniversary, Mom & Dad!",
+    "cake_message_subtitle": "May your love continue to grow stronger with every passing year.",
+    "surprise_heading": "One Last Surprise Awaits You...",
+    "surprise_button_text": "OPEN YOUR SURPRISE ❤️",
+    "surprise_video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "surprise_message": "Dear Mom and Dad,\n\nEverything we are today is because of everything you have done for us.\nYour sacrifices, guidance, patience and unconditional love have made our lives beautiful.\nYou are our greatest blessing and our forever heroes.\nThank you for being our parents.\nWe love you endlessly.\n\nHAPPY WEDDING ANNIVERSARY! ❤️",
+    "surprise_photos": [
+      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  "timeline_events": [
+    {
+      "id": "tl-1",
+      "milestone_date": "November 12, 2006",
+      "title": "The Sacred Vows",
+      "description": "The blessed day two souls united with sacred rituals, bright smiles, blessings from family, and the beginning of a lifelong promise to walk hand in hand through every joy and sorrow.",
+      "photo_url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+      "video_url": null,
+      "display_order": 1,
+      "is_published": true
+    },
+    {
+      "id": "tl-2",
+      "milestone_date": "August 2008",
+      "title": "Welcoming Our First Miracle",
+      "description": "Their first journey into parenthood began. Sleepless nights turned into tender lullabies, and their home filled with the sound of laughter and little footsteps.",
+      "photo_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=800&q=80",
+      "video_url": null,
+      "display_order": 2,
+      "is_published": true
+    },
+    {
+      "id": "tl-3",
+      "milestone_date": "June 2013",
+      "title": "Building Our Family Nest",
+      "description": "Through tireless hard work, perseverance and sacrifices, they built our warm family home—a sanctuary where unconditional love was always present at the dining table.",
+      "photo_url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&w=800&q=80",
+      "video_url": null,
+      "display_order": 3,
+      "is_published": true
+    },
+    {
+      "id": "tl-4",
+      "milestone_date": "December 2018",
+      "title": "Unforgettable Family Journeys",
+      "description": "Traveling across misty mountains and peaceful shorelines. What mattered was never the destination, but the warm comfort of being together as one tight-knit family.",
+      "photo_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=800&q=80",
+      "video_url": null,
+      "display_order": 4,
+      "is_published": true
+    },
+    {
+      "id": "tl-5",
+      "milestone_date": "November 12, 2021",
+      "title": "Fifteen Crystal Years",
+      "description": "Fifteen magnificent years of unwavering devotion, patience, and companionship celebrated surrounded by cherished relatives and proud children.",
+      "photo_url": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=800&q=80",
+      "video_url": null,
+      "display_order": 5,
+      "is_published": true
+    },
+    {
+      "id": "tl-6",
+      "milestone_date": "November 12, 2026",
+      "title": "Twenty Years: Today, Tomorrow, Always",
+      "description": "Today we celebrate two full decades of your boundless devotion. Twenty years of love that remains our compass, our inspiration, and our greatest blessing.",
+      "photo_url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=800&q=80",
+      "video_url": null,
+      "display_order": 6,
+      "is_published": true
+    }
+  ],
+  "gallery_photos": [
+    {
+      "id": "gal-1",
+      "title": "The Wedding Garland Exchange",
+      "caption": "Where our entire world first began with two beating hearts.",
+      "photo_url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=800&q=80",
+      "album": "wedding",
+      "date_taken": "November 12, 2006",
+      "display_order": 1,
+      "is_published": true
+    },
+    {
+      "id": "gal-2",
+      "title": "A Stroll in the Rose Garden",
+      "caption": "Your smiles have always been the sunshine in our days.",
+      "photo_url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
+      "album": "travel",
+      "date_taken": "Spring 2011",
+      "display_order": 2,
+      "is_published": true
+    },
+    {
+      "id": "gal-3",
+      "title": "Festival of Lights at Home",
+      "caption": "No lantern shines brighter than the warmth of Mom and Dad.",
+      "photo_url": "https://images.unsplash.com/photo-1514517521153-1be72277b32f?auto=format&fit=crop&w=800&q=80",
+      "album": "family",
+      "date_taken": "Autumn 2018",
+      "display_order": 3,
+      "is_published": true
+    },
+    {
+      "id": "gal-4",
+      "title": "Mountain Retreat in Himachal",
+      "caption": "Bundled up in woolens, sharing hot tea and endless stories.",
+      "photo_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+      "album": "travel",
+      "date_taken": "Winter 2019",
+      "display_order": 4,
+      "is_published": true
+    },
+    {
+      "id": "gal-5",
+      "title": "Celebration of Togetherness",
+      "caption": "Sweet promises renewed with pure grace and joyful laughter.",
+      "photo_url": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=800&q=80",
+      "album": "special",
+      "date_taken": "November 2021",
+      "display_order": 5,
+      "is_published": true
+    },
+    {
+      "id": "gal-6",
+      "title": "Sunday Morning Laughter",
+      "caption": "The everyday quiet moments that make home feel like heaven.",
+      "photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80",
+      "album": "family",
+      "date_taken": "Summer 2023",
+      "display_order": 6,
+      "is_published": true
+    }
+  ],
+  "letters": [
+    {
+      "id": "let-1",
+      "author": "From Your Eldest Son",
+      "relationship": "Eldest Son",
+      "title": "To My Greatest Teachers & Guiding Stars",
+      "message": "Dear Amma & Abba,\n\nGrowing up, I watched how you handled every trial with dignity and gentleness. Dad, your calm resilience taught me how to stand firm in this world. Mom, your silent sacrifices and soothing prayers shielded us from every storm.\n\nWhenever I feel uncertain, I simply look at the life you two built from the ground up with mutual respect and unwavering faith. Thank you for never giving up on our dreams, even when it meant putting yours on pause. May Allah grant you endless good health and joy together. Happy 20th Anniversary!",
+      "audio_recording_url": null,
+      "display_order": 1,
+      "is_published": true
+    },
+    {
+      "id": "let-2",
+      "author": "From Your Daughter",
+      "relationship": "Daughter",
+      "title": "To The Best Mom & Dad in the Entire World",
+      "message": "My darling Mom and Dad,\n\nWhen people ask me what true love looks like, I always describe the two of you. The way Dad still brings Mom her favorite flowers, the way Mom knows what Dad needs before he even speaks a word.\n\nYou gave us not just a roof over our heads, but wings to fly and a sanctuary of unconditional tenderness to return to whenever life is heavy. Today is a celebration of your magical 20-year bond. We promise to cherish and protect the legacy of love you gifted us every single day. I love you both beyond words! ❤️",
+      "audio_recording_url": null,
+      "display_order": 2,
+      "is_published": true
+    },
+    {
+      "id": "let-3",
+      "author": "From Your Youngest",
+      "relationship": "Youngest Child",
+      "title": "Our Forever Superheroes",
+      "message": "Dearest Mom & Dad,\n\nThank you for every bedtime hug, every encouraging word before big exams, and every warm cup of chai shared on the balcony. You made our childhood feel like a fairytale.\n\nSeeing your smile today is the greatest gift we could ever ask for. Happy 20th Wedding Anniversary to the coolest, most loving parents in the universe! Here's to many more decades of love, travel, and laughter!",
+      "audio_recording_url": null,
+      "display_order": 3,
+      "is_published": true
+    }
+  ],
+  "love_reasons": [
+    {
+      "id": "reason-1",
+      "title": "Your Sacrifices",
+      "message": "For everything you gave up to make our lives better.",
+      "icon_name": "HeartHandshake",
+      "display_order": 1,
+      "is_published": true
+    },
+    {
+      "id": "reason-2",
+      "title": "Your Unconditional Love",
+      "message": "For loving us through every moment without expecting anything in return.",
+      "icon_name": "Heart",
+      "display_order": 2,
+      "is_published": true
+    },
+    {
+      "id": "reason-3",
+      "title": "Your Guidance",
+      "message": "For showing us the right path and teaching us how to become better people.",
+      "icon_name": "Compass",
+      "display_order": 3,
+      "is_published": true
+    },
+    {
+      "id": "reason-4",
+      "title": "Your Support",
+      "message": "For always standing beside us, even during difficult times.",
+      "icon_name": "ShieldCheck",
+      "display_order": 4,
+      "is_published": true
+    },
+    {
+      "id": "reason-5",
+      "title": "Your Beautiful Relationship",
+      "message": "For showing us what true love, patience and togetherness look like.",
+      "icon_name": "Sparkles",
+      "display_order": 5,
+      "is_published": true
+    },
+    {
+      "id": "reason-6",
+      "title": "Everything You Have Done For Us",
+      "message": "For making our world beautiful through your endless love and care.",
+      "icon_name": "Crown",
+      "display_order": 6,
+      "is_published": true
+    }
+  ],
+  "guestbook": [
+    {
+      "id": "gb-1",
+      "visitor_name": "Uncle Tariq & Family",
+      "relationship": "Brother & Sister-in-law",
+      "message": "Heartiest congratulations on your 20th Anniversary! Watching your bond blossom over these two decades has been a true joy. May God shower you with barakah and happiness!",
+      "photo_url": null,
+      "status": "approved",
+      "created_at": "2026-11-10T14:20:00Z"
+    },
+    {
+      "id": "gb-2",
+      "visitor_name": "Aunty Yasmin",
+      "relationship": "Cousin",
+      "message": "Happy 20th Anniversary to the most graceful couple! Your kindness touches everyone who knows you. Wishing you both a lifetime of good health and togetherness.",
+      "photo_url": null,
+      "status": "approved",
+      "created_at": "2026-11-10T18:45:00Z"
+    },
+    {
+      "id": "gb-3",
+      "visitor_name": "Zameer & Ayesha",
+      "relationship": "Family Friends",
+      "message": "Happy 20th wedding anniversary! You two set the golden standard for what marriage should be. Love and prayers from all of us!",
+      "photo_url": null,
+      "status": "approved",
+      "created_at": "2026-11-11T09:15:00Z"
+    }
+  ],
+  "snapshots": {
+    "mom-and-dad-20th": {
+      "id": "share-mwcegnw4",
+      "slug": "mom-and-dad-20th",
+      "title": "20th Anniversary Gift",
+      "note": "A digital gift from children",
+      "createdAt": "2026-11-11T17:35:31.060Z",
+      "isParentViewOnly": false,
+      "site_settings": {
+        "site_title": "Forever Together",
+        "parents_names": "Mom & Dad",
+        "anniversary_date": "2026-11-12T00:00:00+05:30",
+        "welcome_heading": "To The Two People Who Mean The World To Us",
+        "welcome_subtitle": "Happy Wedding Anniversary ❤️",
+        "welcome_tagline": "A little surprise awaits you...",
+        "welcome_photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+        "background_music_url": "https://cdn.freesound.org/previews/612/612089_5674468-lq.mp3",
+        "background_music_title": "A Thousand Years (Instrumental Romance)",
+        "music_enabled": true,
+        "cake_message_title": "Happy Anniversary, Mom & Dad!",
+        "cake_message_subtitle": "May your love continue to grow stronger with every passing year.",
+        "surprise_heading": "One Last Surprise Awaits You...",
+        "surprise_button_text": "OPEN YOUR SURPRISE ❤️",
+        "surprise_video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "surprise_message": "Dear Mom and Dad,\n\nEverything we are today is because of everything you have done for us.\nYour sacrifices, guidance, patience and unconditional love have made our lives beautiful.\nYou are our greatest blessing and our forever heroes.\nThank you for being our parents.\nWe love you endlessly.\n\nHAPPY WEDDING ANNIVERSARY! ❤️",
+        "surprise_photos": [
+          "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=800&q=80"
+        ]
+      },
+      "timeline_events": [
+        {
+          "id": "tl-1",
+          "milestone_date": "November 12, 2006",
+          "title": "The Sacred Vows",
+          "description": "The blessed day two souls united with sacred rituals, bright smiles, blessings from family, and the beginning of a lifelong promise to walk hand in hand through every joy and sorrow.",
+          "photo_url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "tl-2",
+          "milestone_date": "August 2008",
+          "title": "Welcoming Our First Miracle",
+          "description": "Their first journey into parenthood began. Sleepless nights turned into tender lullabies, and their home filled with the sound of laughter and little footsteps.",
+          "photo_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "tl-3",
+          "milestone_date": "June 2013",
+          "title": "Building Our Family Nest",
+          "description": "Through tireless hard work, perseverance and sacrifices, they built our warm family home—a sanctuary where unconditional love was always present at the dining table.",
+          "photo_url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "tl-4",
+          "milestone_date": "December 2018",
+          "title": "Unforgettable Family Journeys",
+          "description": "Traveling across misty mountains and peaceful shorelines. What mattered was never the destination, but the warm comfort of being together as one tight-knit family.",
+          "photo_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "tl-5",
+          "milestone_date": "November 12, 2021",
+          "title": "Fifteen Crystal Years",
+          "description": "Fifteen magnificent years of unwavering devotion, patience, and companionship celebrated surrounded by cherished relatives and proud children.",
+          "photo_url": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "tl-6",
+          "milestone_date": "November 12, 2026",
+          "title": "Twenty Years: Today, Tomorrow, Always",
+          "description": "Today we celebrate two full decades of your boundless devotion. Twenty years of love that remains our compass, our inspiration, and our greatest blessing.",
+          "photo_url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "gallery_photos": [
+        {
+          "id": "gal-1",
+          "title": "The Wedding Garland Exchange",
+          "caption": "Where our entire world first began with two beating hearts.",
+          "photo_url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=800&q=80",
+          "album": "wedding",
+          "date_taken": "November 12, 2006",
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "gal-2",
+          "title": "A Stroll in the Rose Garden",
+          "caption": "Your smiles have always been the sunshine in our days.",
+          "photo_url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
+          "album": "travel",
+          "date_taken": "Spring 2011",
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "gal-3",
+          "title": "Festival of Lights at Home",
+          "caption": "No lantern shines brighter than the warmth of Mom and Dad.",
+          "photo_url": "https://images.unsplash.com/photo-1514517521153-1be72277b32f?auto=format&fit=crop&w=800&q=80",
+          "album": "family",
+          "date_taken": "Autumn 2018",
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "gal-4",
+          "title": "Mountain Retreat in Himachal",
+          "caption": "Bundled up in woolens, sharing hot tea and endless stories.",
+          "photo_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+          "album": "travel",
+          "date_taken": "Winter 2019",
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "gal-5",
+          "title": "Celebration of Togetherness",
+          "caption": "Sweet promises renewed with pure grace and joyful laughter.",
+          "photo_url": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=800&q=80",
+          "album": "special",
+          "date_taken": "November 2021",
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "gal-6",
+          "title": "Sunday Morning Laughter",
+          "caption": "The everyday quiet moments that make home feel like heaven.",
+          "photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80",
+          "album": "family",
+          "date_taken": "Summer 2023",
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "letters": [
+        {
+          "id": "let-1",
+          "author": "From Your Eldest Son",
+          "relationship": "Eldest Son",
+          "title": "To My Greatest Teachers & Guiding Stars",
+          "message": "Dear Amma & Abba,\n\nGrowing up, I watched how you handled every trial with dignity and gentleness. Dad, your calm resilience taught me how to stand firm in this world. Mom, your silent sacrifices and soothing prayers shielded us from every storm.\n\nWhenever I feel uncertain, I simply look at the life you two built from the ground up with mutual respect and unwavering faith. Thank you for never giving up on our dreams, even when it meant putting yours on pause. May Allah grant you endless good health and joy together. Happy 20th Anniversary!",
+          "audio_recording_url": null,
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "let-2",
+          "author": "From Your Daughter",
+          "relationship": "Daughter",
+          "title": "To The Best Mom & Dad in the Entire World",
+          "message": "My darling Mom and Dad,\n\nWhen people ask me what true love looks like, I always describe the two of you. The way Dad still brings Mom her favorite flowers, the way Mom knows what Dad needs before he even speaks a word.\n\nYou gave us not just a roof over our heads, but wings to fly and a sanctuary of unconditional tenderness to return to whenever life is heavy. Today is a celebration of your magical 20-year bond. We promise to cherish and protect the legacy of love you gifted us every single day. I love you both beyond words! ❤️",
+          "audio_recording_url": null,
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "let-3",
+          "author": "From Your Youngest",
+          "relationship": "Youngest Child",
+          "title": "Our Forever Superheroes",
+          "message": "Dearest Mom & Dad,\n\nThank you for every bedtime hug, every encouraging word before big exams, and every warm cup of chai shared on the balcony. You made our childhood feel like a fairytale.\n\nSeeing your smile today is the greatest gift we could ever ask for. Happy 20th Wedding Anniversary to the coolest, most loving parents in the universe! Here's to many more decades of love, travel, and laughter!",
+          "audio_recording_url": null,
+          "display_order": 3,
+          "is_published": true
+        }
+      ],
+      "love_reasons": [
+        {
+          "id": "reason-1",
+          "title": "Your Sacrifices",
+          "message": "For everything you gave up to make our lives better.",
+          "icon_name": "HeartHandshake",
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "reason-2",
+          "title": "Your Unconditional Love",
+          "message": "For loving us through every moment without expecting anything in return.",
+          "icon_name": "Heart",
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "reason-3",
+          "title": "Your Guidance",
+          "message": "For showing us the right path and teaching us how to become better people.",
+          "icon_name": "Compass",
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "reason-4",
+          "title": "Your Support",
+          "message": "For always standing beside us, even during difficult times.",
+          "icon_name": "ShieldCheck",
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "reason-5",
+          "title": "Your Beautiful Relationship",
+          "message": "For showing us what true love, patience and togetherness look like.",
+          "icon_name": "Sparkles",
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "reason-6",
+          "title": "Everything You Have Done For Us",
+          "message": "For making our world beautiful through your endless love and care.",
+          "icon_name": "Crown",
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "guestbook": [
+        {
+          "id": "gb-1",
+          "visitor_name": "Uncle Tariq & Family",
+          "relationship": "Brother & Sister-in-law",
+          "message": "Heartiest congratulations on your 20th Anniversary! Watching your bond blossom over these two decades has been a true joy. May God shower you with barakah and happiness!",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-10T14:20:00Z"
+        },
+        {
+          "id": "gb-2",
+          "visitor_name": "Aunty Yasmin",
+          "relationship": "Cousin",
+          "message": "Happy 20th Anniversary to the most graceful couple! Your kindness touches everyone who knows you. Wishing you both a lifetime of good health and togetherness.",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-10T18:45:00Z"
+        },
+        {
+          "id": "gb-3",
+          "visitor_name": "Zameer & Ayesha",
+          "relationship": "Family Friends",
+          "message": "Happy 20th wedding anniversary! You two set the golden standard for what marriage should be. Love and prayers from all of us!",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-11T09:15:00Z"
+        }
+      ]
+    },
+    "share-mwcegnw4": {
+      "id": "share-mwcegnw4",
+      "slug": "mom-and-dad-20th",
+      "title": "20th Anniversary Gift",
+      "note": "A digital gift from children",
+      "createdAt": "2026-11-11T17:35:31.060Z",
+      "isParentViewOnly": false,
+      "site_settings": {
+        "site_title": "Forever Together",
+        "parents_names": "Mom & Dad",
+        "anniversary_date": "2026-11-12T00:00:00+05:30",
+        "welcome_heading": "To The Two People Who Mean The World To Us",
+        "welcome_subtitle": "Happy Wedding Anniversary ❤️",
+        "welcome_tagline": "A little surprise awaits you...",
+        "welcome_photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+        "background_music_url": "https://cdn.freesound.org/previews/612/612089_5674468-lq.mp3",
+        "background_music_title": "A Thousand Years (Instrumental Romance)",
+        "music_enabled": true,
+        "cake_message_title": "Happy Anniversary, Mom & Dad!",
+        "cake_message_subtitle": "May your love continue to grow stronger with every passing year.",
+        "surprise_heading": "One Last Surprise Awaits You...",
+        "surprise_button_text": "OPEN YOUR SURPRISE ❤️",
+        "surprise_video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "surprise_message": "Dear Mom and Dad,\n\nEverything we are today is because of everything you have done for us.\nYour sacrifices, guidance, patience and unconditional love have made our lives beautiful.\nYou are our greatest blessing and our forever heroes.\nThank you for being our parents.\nWe love you endlessly.\n\nHAPPY WEDDING ANNIVERSARY! ❤️",
+        "surprise_photos": [
+          "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=800&q=80"
+        ]
+      },
+      "timeline_events": [
+        {
+          "id": "tl-1",
+          "milestone_date": "November 12, 2006",
+          "title": "The Sacred Vows",
+          "description": "The blessed day two souls united with sacred rituals, bright smiles, blessings from family, and the beginning of a lifelong promise to walk hand in hand through every joy and sorrow.",
+          "photo_url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "tl-2",
+          "milestone_date": "August 2008",
+          "title": "Welcoming Our First Miracle",
+          "description": "Their first journey into parenthood began. Sleepless nights turned into tender lullabies, and their home filled with the sound of laughter and little footsteps.",
+          "photo_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "tl-3",
+          "milestone_date": "June 2013",
+          "title": "Building Our Family Nest",
+          "description": "Through tireless hard work, perseverance and sacrifices, they built our warm family home—a sanctuary where unconditional love was always present at the dining table.",
+          "photo_url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "tl-4",
+          "milestone_date": "December 2018",
+          "title": "Unforgettable Family Journeys",
+          "description": "Traveling across misty mountains and peaceful shorelines. What mattered was never the destination, but the warm comfort of being together as one tight-knit family.",
+          "photo_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "tl-5",
+          "milestone_date": "November 12, 2021",
+          "title": "Fifteen Crystal Years",
+          "description": "Fifteen magnificent years of unwavering devotion, patience, and companionship celebrated surrounded by cherished relatives and proud children.",
+          "photo_url": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "tl-6",
+          "milestone_date": "November 12, 2026",
+          "title": "Twenty Years: Today, Tomorrow, Always",
+          "description": "Today we celebrate two full decades of your boundless devotion. Twenty years of love that remains our compass, our inspiration, and our greatest blessing.",
+          "photo_url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "gallery_photos": [
+        {
+          "id": "gal-1",
+          "title": "The Wedding Garland Exchange",
+          "caption": "Where our entire world first began with two beating hearts.",
+          "photo_url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=800&q=80",
+          "album": "wedding",
+          "date_taken": "November 12, 2006",
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "gal-2",
+          "title": "A Stroll in the Rose Garden",
+          "caption": "Your smiles have always been the sunshine in our days.",
+          "photo_url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
+          "album": "travel",
+          "date_taken": "Spring 2011",
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "gal-3",
+          "title": "Festival of Lights at Home",
+          "caption": "No lantern shines brighter than the warmth of Mom and Dad.",
+          "photo_url": "https://images.unsplash.com/photo-1514517521153-1be72277b32f?auto=format&fit=crop&w=800&q=80",
+          "album": "family",
+          "date_taken": "Autumn 2018",
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "gal-4",
+          "title": "Mountain Retreat in Himachal",
+          "caption": "Bundled up in woolens, sharing hot tea and endless stories.",
+          "photo_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+          "album": "travel",
+          "date_taken": "Winter 2019",
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "gal-5",
+          "title": "Celebration of Togetherness",
+          "caption": "Sweet promises renewed with pure grace and joyful laughter.",
+          "photo_url": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=800&q=80",
+          "album": "special",
+          "date_taken": "November 2021",
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "gal-6",
+          "title": "Sunday Morning Laughter",
+          "caption": "The everyday quiet moments that make home feel like heaven.",
+          "photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80",
+          "album": "family",
+          "date_taken": "Summer 2023",
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "letters": [
+        {
+          "id": "let-1",
+          "author": "From Your Eldest Son",
+          "relationship": "Eldest Son",
+          "title": "To My Greatest Teachers & Guiding Stars",
+          "message": "Dear Amma & Abba,\n\nGrowing up, I watched how you handled every trial with dignity and gentleness. Dad, your calm resilience taught me how to stand firm in this world. Mom, your silent sacrifices and soothing prayers shielded us from every storm.\n\nWhenever I feel uncertain, I simply look at the life you two built from the ground up with mutual respect and unwavering faith. Thank you for never giving up on our dreams, even when it meant putting yours on pause. May Allah grant you endless good health and joy together. Happy 20th Anniversary!",
+          "audio_recording_url": null,
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "let-2",
+          "author": "From Your Daughter",
+          "relationship": "Daughter",
+          "title": "To The Best Mom & Dad in the Entire World",
+          "message": "My darling Mom and Dad,\n\nWhen people ask me what true love looks like, I always describe the two of you. The way Dad still brings Mom her favorite flowers, the way Mom knows what Dad needs before he even speaks a word.\n\nYou gave us not just a roof over our heads, but wings to fly and a sanctuary of unconditional tenderness to return to whenever life is heavy. Today is a celebration of your magical 20-year bond. We promise to cherish and protect the legacy of love you gifted us every single day. I love you both beyond words! ❤️",
+          "audio_recording_url": null,
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "let-3",
+          "author": "From Your Youngest",
+          "relationship": "Youngest Child",
+          "title": "Our Forever Superheroes",
+          "message": "Dearest Mom & Dad,\n\nThank you for every bedtime hug, every encouraging word before big exams, and every warm cup of chai shared on the balcony. You made our childhood feel like a fairytale.\n\nSeeing your smile today is the greatest gift we could ever ask for. Happy 20th Wedding Anniversary to the coolest, most loving parents in the universe! Here's to many more decades of love, travel, and laughter!",
+          "audio_recording_url": null,
+          "display_order": 3,
+          "is_published": true
+        }
+      ],
+      "love_reasons": [
+        {
+          "id": "reason-1",
+          "title": "Your Sacrifices",
+          "message": "For everything you gave up to make our lives better.",
+          "icon_name": "HeartHandshake",
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "reason-2",
+          "title": "Your Unconditional Love",
+          "message": "For loving us through every moment without expecting anything in return.",
+          "icon_name": "Heart",
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "reason-3",
+          "title": "Your Guidance",
+          "message": "For showing us the right path and teaching us how to become better people.",
+          "icon_name": "Compass",
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "reason-4",
+          "title": "Your Support",
+          "message": "For always standing beside us, even during difficult times.",
+          "icon_name": "ShieldCheck",
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "reason-5",
+          "title": "Your Beautiful Relationship",
+          "message": "For showing us what true love, patience and togetherness look like.",
+          "icon_name": "Sparkles",
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "reason-6",
+          "title": "Everything You Have Done For Us",
+          "message": "For making our world beautiful through your endless love and care.",
+          "icon_name": "Crown",
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "guestbook": [
+        {
+          "id": "gb-1",
+          "visitor_name": "Uncle Tariq & Family",
+          "relationship": "Brother & Sister-in-law",
+          "message": "Heartiest congratulations on your 20th Anniversary! Watching your bond blossom over these two decades has been a true joy. May God shower you with barakah and happiness!",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-10T14:20:00Z"
+        },
+        {
+          "id": "gb-2",
+          "visitor_name": "Aunty Yasmin",
+          "relationship": "Cousin",
+          "message": "Happy 20th Anniversary to the most graceful couple! Your kindness touches everyone who knows you. Wishing you both a lifetime of good health and togetherness.",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-10T18:45:00Z"
+        },
+        {
+          "id": "gb-3",
+          "visitor_name": "Zameer & Ayesha",
+          "relationship": "Family Friends",
+          "message": "Happy 20th wedding anniversary! You two set the golden standard for what marriage should be. Love and prayers from all of us!",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-11T09:15:00Z"
+        }
+      ]
+    },
+    "family-20th": {
+      "id": "share-mwcf6jt8",
+      "slug": "family-20th",
+      "title": "20th Anniversary",
+      "note": "A digital gift from children",
+      "createdAt": "2026-11-11T17:55:38.828Z",
+      "isParentViewOnly": false,
+      "site_settings": {
+        "site_title": "Forever Together",
+        "parents_names": "Mom & Dad",
+        "anniversary_date": "2026-11-12T00:00:00+05:30",
+        "welcome_heading": "To The Two People Who Mean The World To Us",
+        "welcome_subtitle": "Happy Wedding Anniversary ❤️",
+        "welcome_tagline": "A little surprise awaits you...",
+        "welcome_photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+        "background_music_url": "https://cdn.freesound.org/previews/612/612089_5674468-lq.mp3",
+        "background_music_title": "A Thousand Years (Instrumental Romance)",
+        "music_enabled": true,
+        "cake_message_title": "Happy Anniversary, Mom & Dad!",
+        "cake_message_subtitle": "May your love continue to grow stronger with every passing year.",
+        "surprise_heading": "One Last Surprise Awaits You...",
+        "surprise_button_text": "OPEN YOUR SURPRISE ❤️",
+        "surprise_video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "surprise_message": "Dear Mom and Dad,\n\nEverything we are today is because of everything you have done for us.\nYour sacrifices, guidance, patience and unconditional love have made our lives beautiful.\nYou are our greatest blessing and our forever heroes.\nThank you for being our parents.\nWe love you endlessly.\n\nHAPPY WEDDING ANNIVERSARY! ❤️",
+        "surprise_photos": [
+          "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=800&q=80"
+        ]
+      },
+      "timeline_events": [
+        {
+          "id": "tl-1",
+          "milestone_date": "November 12, 2006",
+          "title": "The Sacred Vows",
+          "description": "The blessed day two souls united with sacred rituals, bright smiles, blessings from family, and the beginning of a lifelong promise to walk hand in hand through every joy and sorrow.",
+          "photo_url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "tl-2",
+          "milestone_date": "August 2008",
+          "title": "Welcoming Our First Miracle",
+          "description": "Their first journey into parenthood began. Sleepless nights turned into tender lullabies, and their home filled with the sound of laughter and little footsteps.",
+          "photo_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "tl-3",
+          "milestone_date": "June 2013",
+          "title": "Building Our Family Nest",
+          "description": "Through tireless hard work, perseverance and sacrifices, they built our warm family home—a sanctuary where unconditional love was always present at the dining table.",
+          "photo_url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "tl-4",
+          "milestone_date": "December 2018",
+          "title": "Unforgettable Family Journeys",
+          "description": "Traveling across misty mountains and peaceful shorelines. What mattered was never the destination, but the warm comfort of being together as one tight-knit family.",
+          "photo_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "tl-5",
+          "milestone_date": "November 12, 2021",
+          "title": "Fifteen Crystal Years",
+          "description": "Fifteen magnificent years of unwavering devotion, patience, and companionship celebrated surrounded by cherished relatives and proud children.",
+          "photo_url": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "tl-6",
+          "milestone_date": "November 12, 2026",
+          "title": "Twenty Years: Today, Tomorrow, Always",
+          "description": "Today we celebrate two full decades of your boundless devotion. Twenty years of love that remains our compass, our inspiration, and our greatest blessing.",
+          "photo_url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "gallery_photos": [
+        {
+          "id": "gal-1",
+          "title": "The Wedding Garland Exchange",
+          "caption": "Where our entire world first began with two beating hearts.",
+          "photo_url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=800&q=80",
+          "album": "wedding",
+          "date_taken": "November 12, 2006",
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "gal-2",
+          "title": "A Stroll in the Rose Garden",
+          "caption": "Your smiles have always been the sunshine in our days.",
+          "photo_url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
+          "album": "travel",
+          "date_taken": "Spring 2011",
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "gal-3",
+          "title": "Festival of Lights at Home",
+          "caption": "No lantern shines brighter than the warmth of Mom and Dad.",
+          "photo_url": "https://images.unsplash.com/photo-1514517521153-1be72277b32f?auto=format&fit=crop&w=800&q=80",
+          "album": "family",
+          "date_taken": "Autumn 2018",
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "gal-4",
+          "title": "Mountain Retreat in Himachal",
+          "caption": "Bundled up in woolens, sharing hot tea and endless stories.",
+          "photo_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+          "album": "travel",
+          "date_taken": "Winter 2019",
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "gal-5",
+          "title": "Celebration of Togetherness",
+          "caption": "Sweet promises renewed with pure grace and joyful laughter.",
+          "photo_url": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=800&q=80",
+          "album": "special",
+          "date_taken": "November 2021",
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "gal-6",
+          "title": "Sunday Morning Laughter",
+          "caption": "The everyday quiet moments that make home feel like heaven.",
+          "photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80",
+          "album": "family",
+          "date_taken": "Summer 2023",
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "letters": [
+        {
+          "id": "let-1",
+          "author": "From Your Eldest Son",
+          "relationship": "Eldest Son",
+          "title": "To My Greatest Teachers & Guiding Stars",
+          "message": "Dear Amma & Abba,\n\nGrowing up, I watched how you handled every trial with dignity and gentleness. Dad, your calm resilience taught me how to stand firm in this world. Mom, your silent sacrifices and soothing prayers shielded us from every storm.\n\nWhenever I feel uncertain, I simply look at the life you two built from the ground up with mutual respect and unwavering faith. Thank you for never giving up on our dreams, even when it meant putting yours on pause. May Allah grant you endless good health and joy together. Happy 20th Anniversary!",
+          "audio_recording_url": null,
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "let-2",
+          "author": "From Your Daughter",
+          "relationship": "Daughter",
+          "title": "To The Best Mom & Dad in the Entire World",
+          "message": "My darling Mom and Dad,\n\nWhen people ask me what true love looks like, I always describe the two of you. The way Dad still brings Mom her favorite flowers, the way Mom knows what Dad needs before he even speaks a word.\n\nYou gave us not just a roof over our heads, but wings to fly and a sanctuary of unconditional tenderness to return to whenever life is heavy. Today is a celebration of your magical 20-year bond. We promise to cherish and protect the legacy of love you gifted us every single day. I love you both beyond words! ❤️",
+          "audio_recording_url": null,
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "let-3",
+          "author": "From Your Youngest",
+          "relationship": "Youngest Child",
+          "title": "Our Forever Superheroes",
+          "message": "Dearest Mom & Dad,\n\nThank you for every bedtime hug, every encouraging word before big exams, and every warm cup of chai shared on the balcony. You made our childhood feel like a fairytale.\n\nSeeing your smile today is the greatest gift we could ever ask for. Happy 20th Wedding Anniversary to the coolest, most loving parents in the universe! Here's to many more decades of love, travel, and laughter!",
+          "audio_recording_url": null,
+          "display_order": 3,
+          "is_published": true
+        }
+      ],
+      "love_reasons": [
+        {
+          "id": "reason-1",
+          "title": "Your Sacrifices",
+          "message": "For everything you gave up to make our lives better.",
+          "icon_name": "HeartHandshake",
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "reason-2",
+          "title": "Your Unconditional Love",
+          "message": "For loving us through every moment without expecting anything in return.",
+          "icon_name": "Heart",
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "reason-3",
+          "title": "Your Guidance",
+          "message": "For showing us the right path and teaching us how to become better people.",
+          "icon_name": "Compass",
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "reason-4",
+          "title": "Your Support",
+          "message": "For always standing beside us, even during difficult times.",
+          "icon_name": "ShieldCheck",
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "reason-5",
+          "title": "Your Beautiful Relationship",
+          "message": "For showing us what true love, patience and togetherness look like.",
+          "icon_name": "Sparkles",
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "reason-6",
+          "title": "Everything You Have Done For Us",
+          "message": "For making our world beautiful through your endless love and care.",
+          "icon_name": "Crown",
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "guestbook": [
+        {
+          "id": "gb-1",
+          "visitor_name": "Uncle Tariq & Family",
+          "relationship": "Brother & Sister-in-law",
+          "message": "Heartiest congratulations on your 20th Anniversary! Watching your bond blossom over these two decades has been a true joy. May God shower you with barakah and happiness!",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-10T14:20:00Z"
+        },
+        {
+          "id": "gb-2",
+          "visitor_name": "Aunty Yasmin",
+          "relationship": "Cousin",
+          "message": "Happy 20th Anniversary to the most graceful couple! Your kindness touches everyone who knows you. Wishing you both a lifetime of good health and togetherness.",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-10T18:45:00Z"
+        },
+        {
+          "id": "gb-3",
+          "visitor_name": "Zameer & Ayesha",
+          "relationship": "Family Friends",
+          "message": "Happy 20th wedding anniversary! You two set the golden standard for what marriage should be. Love and prayers from all of us!",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-11T09:15:00Z"
+        }
+      ]
+    },
+    "share-mwcf6jt8": {
+      "id": "share-mwcf6jt8",
+      "slug": "family-20th",
+      "title": "20th Anniversary",
+      "note": "A digital gift from children",
+      "createdAt": "2026-11-11T17:55:38.828Z",
+      "isParentViewOnly": false,
+      "site_settings": {
+        "site_title": "Forever Together",
+        "parents_names": "Mom & Dad",
+        "anniversary_date": "2026-11-12T00:00:00+05:30",
+        "welcome_heading": "To The Two People Who Mean The World To Us",
+        "welcome_subtitle": "Happy Wedding Anniversary ❤️",
+        "welcome_tagline": "A little surprise awaits you...",
+        "welcome_photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+        "background_music_url": "https://cdn.freesound.org/previews/612/612089_5674468-lq.mp3",
+        "background_music_title": "A Thousand Years (Instrumental Romance)",
+        "music_enabled": true,
+        "cake_message_title": "Happy Anniversary, Mom & Dad!",
+        "cake_message_subtitle": "May your love continue to grow stronger with every passing year.",
+        "surprise_heading": "One Last Surprise Awaits You...",
+        "surprise_button_text": "OPEN YOUR SURPRISE ❤️",
+        "surprise_video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "surprise_message": "Dear Mom and Dad,\n\nEverything we are today is because of everything you have done for us.\nYour sacrifices, guidance, patience and unconditional love have made our lives beautiful.\nYou are our greatest blessing and our forever heroes.\nThank you for being our parents.\nWe love you endlessly.\n\nHAPPY WEDDING ANNIVERSARY! ❤️",
+        "surprise_photos": [
+          "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=800&q=80"
+        ]
+      },
+      "timeline_events": [
+        {
+          "id": "tl-1",
+          "milestone_date": "November 12, 2006",
+          "title": "The Sacred Vows",
+          "description": "The blessed day two souls united with sacred rituals, bright smiles, blessings from family, and the beginning of a lifelong promise to walk hand in hand through every joy and sorrow.",
+          "photo_url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "tl-2",
+          "milestone_date": "August 2008",
+          "title": "Welcoming Our First Miracle",
+          "description": "Their first journey into parenthood began. Sleepless nights turned into tender lullabies, and their home filled with the sound of laughter and little footsteps.",
+          "photo_url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "tl-3",
+          "milestone_date": "June 2013",
+          "title": "Building Our Family Nest",
+          "description": "Through tireless hard work, perseverance and sacrifices, they built our warm family home—a sanctuary where unconditional love was always present at the dining table.",
+          "photo_url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "tl-4",
+          "milestone_date": "December 2018",
+          "title": "Unforgettable Family Journeys",
+          "description": "Traveling across misty mountains and peaceful shorelines. What mattered was never the destination, but the warm comfort of being together as one tight-knit family.",
+          "photo_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "tl-5",
+          "milestone_date": "November 12, 2021",
+          "title": "Fifteen Crystal Years",
+          "description": "Fifteen magnificent years of unwavering devotion, patience, and companionship celebrated surrounded by cherished relatives and proud children.",
+          "photo_url": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "tl-6",
+          "milestone_date": "November 12, 2026",
+          "title": "Twenty Years: Today, Tomorrow, Always",
+          "description": "Today we celebrate two full decades of your boundless devotion. Twenty years of love that remains our compass, our inspiration, and our greatest blessing.",
+          "photo_url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=800&q=80",
+          "video_url": null,
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "gallery_photos": [
+        {
+          "id": "gal-1",
+          "title": "The Wedding Garland Exchange",
+          "caption": "Where our entire world first began with two beating hearts.",
+          "photo_url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=800&q=80",
+          "album": "wedding",
+          "date_taken": "November 12, 2006",
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "gal-2",
+          "title": "A Stroll in the Rose Garden",
+          "caption": "Your smiles have always been the sunshine in our days.",
+          "photo_url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
+          "album": "travel",
+          "date_taken": "Spring 2011",
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "gal-3",
+          "title": "Festival of Lights at Home",
+          "caption": "No lantern shines brighter than the warmth of Mom and Dad.",
+          "photo_url": "https://images.unsplash.com/photo-1514517521153-1be72277b32f?auto=format&fit=crop&w=800&q=80",
+          "album": "family",
+          "date_taken": "Autumn 2018",
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "gal-4",
+          "title": "Mountain Retreat in Himachal",
+          "caption": "Bundled up in woolens, sharing hot tea and endless stories.",
+          "photo_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
+          "album": "travel",
+          "date_taken": "Winter 2019",
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "gal-5",
+          "title": "Celebration of Togetherness",
+          "caption": "Sweet promises renewed with pure grace and joyful laughter.",
+          "photo_url": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=800&q=80",
+          "album": "special",
+          "date_taken": "November 2021",
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "gal-6",
+          "title": "Sunday Morning Laughter",
+          "caption": "The everyday quiet moments that make home feel like heaven.",
+          "photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80",
+          "album": "family",
+          "date_taken": "Summer 2023",
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "letters": [
+        {
+          "id": "let-1",
+          "author": "From Your Eldest Son",
+          "relationship": "Eldest Son",
+          "title": "To My Greatest Teachers & Guiding Stars",
+          "message": "Dear Amma & Abba,\n\nGrowing up, I watched how you handled every trial with dignity and gentleness. Dad, your calm resilience taught me how to stand firm in this world. Mom, your silent sacrifices and soothing prayers shielded us from every storm.\n\nWhenever I feel uncertain, I simply look at the life you two built from the ground up with mutual respect and unwavering faith. Thank you for never giving up on our dreams, even when it meant putting yours on pause. May Allah grant you endless good health and joy together. Happy 20th Anniversary!",
+          "audio_recording_url": null,
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "let-2",
+          "author": "From Your Daughter",
+          "relationship": "Daughter",
+          "title": "To The Best Mom & Dad in the Entire World",
+          "message": "My darling Mom and Dad,\n\nWhen people ask me what true love looks like, I always describe the two of you. The way Dad still brings Mom her favorite flowers, the way Mom knows what Dad needs before he even speaks a word.\n\nYou gave us not just a roof over our heads, but wings to fly and a sanctuary of unconditional tenderness to return to whenever life is heavy. Today is a celebration of your magical 20-year bond. We promise to cherish and protect the legacy of love you gifted us every single day. I love you both beyond words! ❤️",
+          "audio_recording_url": null,
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "let-3",
+          "author": "From Your Youngest",
+          "relationship": "Youngest Child",
+          "title": "Our Forever Superheroes",
+          "message": "Dearest Mom & Dad,\n\nThank you for every bedtime hug, every encouraging word before big exams, and every warm cup of chai shared on the balcony. You made our childhood feel like a fairytale.\n\nSeeing your smile today is the greatest gift we could ever ask for. Happy 20th Wedding Anniversary to the coolest, most loving parents in the universe! Here's to many more decades of love, travel, and laughter!",
+          "audio_recording_url": null,
+          "display_order": 3,
+          "is_published": true
+        }
+      ],
+      "love_reasons": [
+        {
+          "id": "reason-1",
+          "title": "Your Sacrifices",
+          "message": "For everything you gave up to make our lives better.",
+          "icon_name": "HeartHandshake",
+          "display_order": 1,
+          "is_published": true
+        },
+        {
+          "id": "reason-2",
+          "title": "Your Unconditional Love",
+          "message": "For loving us through every moment without expecting anything in return.",
+          "icon_name": "Heart",
+          "display_order": 2,
+          "is_published": true
+        },
+        {
+          "id": "reason-3",
+          "title": "Your Guidance",
+          "message": "For showing us the right path and teaching us how to become better people.",
+          "icon_name": "Compass",
+          "display_order": 3,
+          "is_published": true
+        },
+        {
+          "id": "reason-4",
+          "title": "Your Support",
+          "message": "For always standing beside us, even during difficult times.",
+          "icon_name": "ShieldCheck",
+          "display_order": 4,
+          "is_published": true
+        },
+        {
+          "id": "reason-5",
+          "title": "Your Beautiful Relationship",
+          "message": "For showing us what true love, patience and togetherness look like.",
+          "icon_name": "Sparkles",
+          "display_order": 5,
+          "is_published": true
+        },
+        {
+          "id": "reason-6",
+          "title": "Everything You Have Done For Us",
+          "message": "For making our world beautiful through your endless love and care.",
+          "icon_name": "Crown",
+          "display_order": 6,
+          "is_published": true
+        }
+      ],
+      "guestbook": [
+        {
+          "id": "gb-1",
+          "visitor_name": "Uncle Tariq & Family",
+          "relationship": "Brother & Sister-in-law",
+          "message": "Heartiest congratulations on your 20th Anniversary! Watching your bond blossom over these two decades has been a true joy. May God shower you with barakah and happiness!",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-10T14:20:00Z"
+        },
+        {
+          "id": "gb-2",
+          "visitor_name": "Aunty Yasmin",
+          "relationship": "Cousin",
+          "message": "Happy 20th Anniversary to the most graceful couple! Your kindness touches everyone who knows you. Wishing you both a lifetime of good health and togetherness.",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-10T18:45:00Z"
+        },
+        {
+          "id": "gb-3",
+          "visitor_name": "Zameer & Ayesha",
+          "relationship": "Family Friends",
+          "message": "Happy 20th wedding anniversary! You two set the golden standard for what marriage should be. Love and prayers from all of us!",
+          "photo_url": null,
+          "status": "approved",
+          "created_at": "2026-11-11T09:15:00Z"
+        }
+      ]
+    }
+  }
+}
